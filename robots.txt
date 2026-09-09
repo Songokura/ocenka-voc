@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ocenca-voc.kz/sitemap.xml
+Sitemap: https://ocenka-voc.kz/sitemap.xml
